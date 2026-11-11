@@ -1,0 +1,7 @@
+{
+  "white_loglog_slope_first_15": -0.5092667593643749,
+  "minimum_sampled_drift_adev": 0.0761406897769294,
+  "best_sampled_tau_s": 29.5,
+  "seed": 42,
+  "data": "synthetic"
+}
